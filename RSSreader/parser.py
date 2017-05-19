@@ -43,9 +43,11 @@ def search(feed):
 
 def push():
 	slack = Slacker(SLACK_TOKEN)
+
 	# Get users list
 	response = slack.users.list()
 	users = response.body['members']
+
 	# find user
 	for user in users:
 		if user['name'] == SLACK_USER:
@@ -53,6 +55,7 @@ def push():
 			print(SLACK_ID)
 			slack.chat.post_message(SLACK_ID, DATA, as_user=True)
 			return
+			
 	# message channel
 	try:
 		slack.chat.post_message(SLACK_USER, DATA, as_user=True)
