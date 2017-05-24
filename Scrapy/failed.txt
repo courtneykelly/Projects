@@ -1,1 +1,0 @@
-http://www.example.com/thisurldoesnotexist.html:  404: Not Foundhttp://www.example.com/neitherdoesthisone.html:  404: Not Found

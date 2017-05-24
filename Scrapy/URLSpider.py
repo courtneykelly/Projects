@@ -5,7 +5,6 @@ import logging
 from urls import urls
 from errorcodes import codes
 from newspaper import Article
-from flask import jsonify
 
 class URLSpider(scrapy.Spider):
     name = "url"
