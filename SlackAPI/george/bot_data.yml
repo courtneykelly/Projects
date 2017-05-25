@@ -1,2 +1,7 @@
 TOKEN: < your bot API token goes here >
 BOT_ID: < the ID of your bot goes here >
+CLIENT_ID: < your client id goes here >
+CLIENT_SECRET: < your client secret id goes here >
+USER_AGENT: '< bot name goes here > by /u/<USERNAME>'
+USERNAME: < your username goes here >
+PASSWORD: < your password goes here >
