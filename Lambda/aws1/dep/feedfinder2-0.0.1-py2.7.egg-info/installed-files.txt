@@ -1,0 +1,7 @@
+../feedfinder2.py
+../feedfinder2.pyc
+dependency_links.txt
+top_level.txt
+SOURCES.txt
+PKG-INFO
+requires.txt
