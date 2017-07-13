@@ -1,0 +1,8 @@
+{
+	"test4": {
+		"s3_bucket": "the-bucket2",
+        "app_function": "my_app.app",
+        "aws_region": "us-west-1",
+        "slim_handler": true
+	}
+}
