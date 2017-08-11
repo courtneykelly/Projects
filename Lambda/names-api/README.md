@@ -2,7 +2,7 @@
 
 API behind a lambda that does stuff with names. 
 
-[https://9jsrwlngdd.execute-api.us-west-1.amazonaws.com/beta](https://9jsrwlngdd.execute-api.us-west-1.amazonaws.com/beta)
+[https://...amazonaws.com/beta](https://9jsrwlngdd.execute-api.us-west-1.amazonaws.com/beta)
 
 # /randfemale
 
