@@ -1,9 +1,9 @@
-## BitCoin project
+# BitCoin project
 
 1. deploy this: https://github.com/bitcoin-abe/bitcoin-abe
+2. [BITCOIN NOTES](BITCOIN_NOTES.pdf)
 
-
-# Questions
+## Questions
 
 1. What currencies is bitcoin-abe compatible with, and for the ones it’s not, why?
 	
