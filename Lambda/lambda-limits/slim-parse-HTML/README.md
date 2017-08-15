@@ -2,7 +2,7 @@
 
 Took existing `parseHTML` lambda function with API trigger and used [Zappa tool](https://github.com/Miserlou/Zappa) to deploy and test the `50MB` lambda hard limit using the `slim_handler` attribute. 
 
-[.../slim-handler-test](https://lf9ni3xg4c.execute-api.us-west-1.amazonaws.com/test4)
+[.../slim-handler-test](https://eghaw63l3b.execute-api.us-west-1.amazonaws.com/test4)
 
 tested without the original PUT request. Uses static url and test article `"https://static01.nyt.com/images/2017/06/13/us/13partisan-picks-comey/13partisan-picks-comey-facebookJumbo.jpg"`
 

@@ -1,6 +1,5 @@
 from flask import Flask, jsonify
 from newspaper import Article
-from mitie import *
 
 app = Flask(__name__)
 
