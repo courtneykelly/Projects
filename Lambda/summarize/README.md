@@ -7,6 +7,7 @@ This function takes a PUT request with a `url` data object and/or a `sentence co
 ## Installations
 
 Need to be running on python2.7. There is a problem with `nltk` and python 3.
+```bash
 `pip install zappa`
 
 `virtualenv env`
@@ -26,6 +27,7 @@ Need to be running on python2.7. There is a problem with `nltk` and python 3.
     ]
     ```
     This will allow for both cases when `slim_handler` in `zappa_settings.json` is `true` or `false`.
+```
 
 ## Deployment
 
