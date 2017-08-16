@@ -2,6 +2,15 @@
 
 This function takes a PUT request with a `url` data object and/or a `sentence count` data object [the default value for sentence count is 5]. It takes the given url, summarizes it, and returns the following json object.
 
+
+```json
+{
+"authors": [..., ...],
+"summary": "...",
+"title": "..."
+}
+```
+
 [https://amazonaws.com/summarize](https://xo6vn2nhac.execute-api.us-west-1.amazonaws.com/api) 
 
 ## Installations
