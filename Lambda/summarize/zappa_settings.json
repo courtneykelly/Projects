@@ -1,0 +1,7 @@
+{
+	"dev": {
+		"app_function": "summarize.app",
+		"s3_bucket": "the-bucket2",
+		"aws_region": "us-west-1"
+	}
+}
