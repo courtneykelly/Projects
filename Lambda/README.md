@@ -8,4 +8,8 @@ Getting familiar with AWS Lambda and many other AWS Services, such as API Gatewa
 
 * Parse HTML: takes url string, and parses HTML content, returns json object
 
-* Lambda Limits: pushes the AWS Lambda limit of 50 MB for a given deployment package, using the [Zappa tool](https://github.com/Miserlou/Zappa). 
+* Lambda Limits: pushes the AWS Lambda limit of 50 MB for a given deployment package, using the [Zappa tool](https://github.com/Miserlou/Zappa) 
+
+* Summarize: takes url string and number of sentences, returns summary of given url with desired # of sentences [default 5]
+
+* Scrapy Splash: attempt to put scrapy splash web scrapers behind a lambda function, so far unsuccessful (so far!)

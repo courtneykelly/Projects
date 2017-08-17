@@ -1,0 +1,7 @@
+{
+	"scrape": {
+		"s3_bucket": "the-bucket2",
+        "app_function": "test_spider.app",
+        "aws_region": "us-west-1"
+	}
+}
